@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Check</title>
+    <g id="Check" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-Copy" fill="#268750" x="0" y="0" width="50" height="50" rx="25"></rect>
+        <path d="M34.9393398,16.9393398 C35.5251263,16.3535534 36.4748737,16.3535534 37.0606602,16.9393398 C37.6464466,17.5251263 37.6464466,18.4748737 37.0606602,19.0606602 L23.0606602,33.0606602 C22.4748737,33.6464466 21.5251263,33.6464466 20.9393398,33.0606602 L13.9393398,26.0606602 C13.3535534,25.4748737 13.3535534,24.5251263 13.9393398,23.9393398 C14.5251263,23.3535534 15.4748737,23.3535534 16.0606602,23.9393398 L22,29.879 L34.9393398,16.9393398 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+    </g>
+</svg>

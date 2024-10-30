@@ -1,0 +1,9 @@
+{
+  "licence_id_option_name": "licenseID",
+  "contact_form_id_option_name": "contactFormID",
+  "client_id": "960c42d226c9eb61e7ac83aaf54c1df6",
+  "helpdesk_app_url": "https://app.helpdesk.com",
+  "helpdesk_api_url": "https://api.helpdesk.com",
+  "forms_url": "https://forms.helpdesk.com",
+  "livechat_accounts_url": "https://accounts.livechat.com/signup?client_id=82837eac-ff5e-45ca-bce1-00011acf925c&redirect_uri=https%3A%2F%2Fapp.helpdesk.com&response_type=token"
+}
